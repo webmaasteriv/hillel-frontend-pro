@@ -1,1 +1,3 @@
-### Home work for Hillel Front-end Pro course
+### Home work №7 for Hillel Front-end Pro course
+
+Ви - детектив. У вас на столі 20 підозрюваних (вираз у JavaScript). Ваша задача — до запуску коду передбачити, що поверне typeof для кожного. Потім запустити і перевірити.
