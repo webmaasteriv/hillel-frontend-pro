@@ -1,1 +1,5 @@
-### Home work for Hillel Front-end Pro course
+### Home work #8 for Hillel Front-end Pro course
+
+У JavaScript є два «нічого»: undefined і null. Вони схожі, але кардинально різні за походженням. undefined - то коли JavaScript сам вирішив, що значення немає («ти забув сказати»). null - це коли розробник свідомо сказав «тут порожньо».
+
+Ваша задача визначити: хто винен, що з'явилось це порожнє значення. JavaScript? Розробник? Обидва?
