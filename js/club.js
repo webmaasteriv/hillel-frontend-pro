@@ -125,7 +125,7 @@ console.log(findMember(Symbol('member'))); // undefined
 console.groupEnd();
 
 console.group('Symbol.for(key)');
-const a = Symbol('shared');
+const a = Symbol('shared'); 
 const b = Symbol('shared');
 console.log(a === b);   // false
 
