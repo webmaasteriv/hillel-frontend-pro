@@ -1,1 +1,2 @@
-### Home work for Hillel Front-end Pro course
+### Home work #13 for Hillel Front-end Pro course
+ДЗ 13. Умовні конструкції
