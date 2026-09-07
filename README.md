@@ -1,1 +1,5 @@
-### Home work for Hillel Front-end Pro course
+### Home work #19 for Hillel Front-end Pro course
+
+Ваша функція повинна працювати аналогічно методу array.shift
+Ваша наступна функція повинна працювати аналогічно методу array.reverse
+В ДЗ заборонено використовувти методи масивів
