@@ -1,6 +1,9 @@
 "use strict";
 
 const useShift = (array) => {
+    if(array.length === 0){
+        return;
+    }
     const result = array[0];
 
     for(let i = 1; i < array.length; i++){
@@ -14,6 +17,8 @@ const useShift = (array) => {
 
 const array = [0,1,2,3,4,5];
 
+
+console.log('useShift with empty array: ', useShift([]));
 console.log('useShift: ', useShift(array));
 console.log('Array: ',array);
 
