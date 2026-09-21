@@ -1,1 +1,2 @@
-### Home work for Hillel Front-end Pro course
+### Home work #24 for Hillel Front-end Pro course
+Є текстове поле на сторінці. Під час фокусування на цьому полі збоку з'являється <div>. При пропажі фокусу - <div> так само пропадає
