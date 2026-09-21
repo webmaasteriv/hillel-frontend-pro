@@ -19,7 +19,7 @@ const users = [
   { id: 5, age: 40, active: true, email: "e@mail.com" },
 ];
 
-const filteredUsers = users.filter((user)=> user.active && user.age >= 18 && user.age <= 35 && !user.email.includes('@spam.com'));
+const filteredUsers = users.filter((user)=> user.active && user.age >= 18 && user.age <= 35 && !user.email.endsWith('@spam.com'));
 
 console.log('Filtered Users: ', filteredUsers);
 
